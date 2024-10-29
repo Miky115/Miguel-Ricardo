@@ -8,7 +8,7 @@
 
 **Lenguajes de Programación y Tecnologías:**
 
-- **Backend:** Java (con Hibernate), Spring MVC, Python, C#, SQL (con funciones y procedimientos), Oracle, MongoDB
+- **Backend:** Java (con Hibernate), Spring MVC, Python, PHP, C#, SQL (con funciones y procedimientos), Oracle, MongoDB
 - **Frontend:** HTML, CSS, JavaScript, AngularJS
 - **Desarrollo de Apps:** Android, Unity
 - **Automatización y BPM:** Appian
