@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+/* Estilos para la tabla de detalles de pedidos */
+.contenedor table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.contenedor thead {
+    background-color: #333; /* Negro */
+    color: #fff; /* Blanco */
+}
+
+.contenedor th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.contenedor th {
+    font-weight: bold;
+}
+
+.contenedor tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Gris claro */
+}
+
+.contenedor tbody tr:hover {
+    background-color: #ddd; /* Gris más oscuro */
+}
+
+.contenedor img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.pie-pagina {
+    position: fixed; /* Establecer posición fija */
+    bottom: 0; /* Colocar en la parte inferior */
+    width: 100%; /* Ancho completo */
+}
+
