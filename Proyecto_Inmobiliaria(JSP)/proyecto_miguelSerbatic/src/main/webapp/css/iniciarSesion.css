@@ -1,0 +1,65 @@
+@charset "ISO-8859-1";
+
+.contenedor {
+	font-family: Arial, sans-serif;
+	background-color: #f4f4f4;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.contenedor form {
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	width: 300px;
+}
+
+.contenedor input[type="password"] {
+	width: calc(100% - 20px);
+	padding: 10px;
+	margin: 5px 0;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+.contenedor input[type="email"] {
+	width: calc(100% - 20px);
+	padding: 10px;
+	margin: 5px 0;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+.error-message {
+	color: red;
+	font-size: 14px;
+	margin-top: 5px;
+}
+
+.contenedor button[type="submit"] {
+	width: calc(100% - 20px);
+	padding: 10px 20px;
+	background-color: #000; /* Negro */
+	color: #fff; /* Blanco */
+	text-decoration: none;
+	border-radius: 5px;
+	transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+	/* Agregamos la transición para el color del borde */
+	border: 2px solid #fff; /* Definimos un borde blanco */
+	cursor: pointer;
+	transition: background-color 0.3s;
+}
+
+.contenedor button[type="submit"]:hover {
+	background-color: transparent;
+	/* Fondo transparente al pasar el ratón */
+	color: #000; /* Texto negro al pasar el ratón */
+	border-color: #000; /* Borde negro al pasar el ratón */
+}

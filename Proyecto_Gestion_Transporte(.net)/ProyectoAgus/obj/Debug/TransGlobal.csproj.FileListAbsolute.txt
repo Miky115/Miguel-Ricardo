@@ -1,0 +1,193 @@
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobal.mdf
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobal_log.ldf
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobalDataSet.Designer.cs
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobalDataSet.xsc
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobalDataSet.xsd
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobalDataSet.xss
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ProyectoAgus.exe.config
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ProyectoAgus.exe
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ProyectoAgus.pdb
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\EnvDTE.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\stdole.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\TransGlobal.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.camiones.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.clientes.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.empleados.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.Form1.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeCamiones.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeClientes.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeProductos.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeRutasDetalle.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeVentasDetalle.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.menu.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.productos.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.Properties.Resources.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.rutas.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.Ventas.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\TransGlobal.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\TransGlobal.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\TransGlobal.csproj.CopyComplete
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.exe
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.pdb
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeCamion.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeEmpleados.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeCliente.resources
+C:\Users\migue\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeProducto.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobal.mdf
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobal_log.ldf
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobalDataSet.Designer.cs
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobalDataSet.xsc
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobalDataSet.xsd
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\TransGlobalDataSet.xss
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ProyectoAgus.exe.config
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ProyectoAgus.exe
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ProyectoAgus.pdb
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\EnvDTE.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\stdole.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\TransGlobal.csproj.AssemblyReference.cache
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.camiones.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.clientes.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.empleados.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.Form1.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeCamion.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeCamiones.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeCliente.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeClientes.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeEmpleados.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeProducto.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeProductos.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeRutasDetalle.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeVentasDetalle.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.menu.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.productos.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.Properties.Resources.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.rutas.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.Ventas.resources
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\TransGlobal.csproj.GenerateResource.cache
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\TransGlobal.csproj.CoreCompileInputs.cache
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\TransGlobal.csproj.CopyComplete
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.exe
+C:\Users\Alumnodam2\source\repos\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.pdb
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\TransGlobal.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.camiones.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.clientes.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.empleados.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.Form1.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeCamion.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeCamiones.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeCliente.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeClientes.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeEmpleados.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.informeProducto.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeProductos.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeRutasDetalle.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.InformeVentasDetalle.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.menu.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.productos.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.Properties.Resources.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.rutas.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.Ventas.resources
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\TransGlobal.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\TransGlobal.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.exe
+C:\Users\migue\OneDrive - Educacyl\2º Desarrollo de aplicaciones multiplataforma\Desarrollo interfaces\Proyecto\ProyectoFinal\ProyectoFinal\ProyectoAgus\obj\Debug\ProyectoAgus.pdb

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\OneDrive - Educacyl\\2\u00BA Desarrollo de aplicaciones multiplataforma\\Desarrollo interfaces\\Proyecto\\ProyectoFinal\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58575660-7FD2-452D-891C-74672C1F38E7}|ProyectoAgus\\TransGlobal.csproj|c:\\users\\migue\\onedrive - educacyl\\2\u00BA desarrollo de aplicaciones multiplataforma\\desarrollo interfaces\\proyecto\\proyectofinal\\proyectofinal\\proyectoagus\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58575660-7FD2-452D-891C-74672C1F38E7}|ProyectoAgus\\TransGlobal.csproj|solutionrelative:proyectoagus\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58575660-7FD2-452D-891C-74672C1F38E7}|ProyectoAgus\\TransGlobal.csproj|C:\\Users\\migue\\OneDrive - Educacyl\\2\u00BA Desarrollo de aplicaciones multiplataforma\\Desarrollo interfaces\\Proyecto\\ProyectoFinal\\ProyectoFinal\\proyectoagus\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58575660-7FD2-452D-891C-74672C1F38E7}|ProyectoAgus\\TransGlobal.csproj|solutionrelative:proyectoagus\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "empleados.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive - Educacyl\\2\u00BA Desarrollo de aplicaciones multiplataforma\\Desarrollo interfaces\\Proyecto\\ProyectoFinal\\ProyectoFinal\\ProyectoAgus\\empleados.cs",
+              "RelativeDocumentMoniker": "ProyectoAgus\\empleados.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive - Educacyl\\2\u00BA Desarrollo de aplicaciones multiplataforma\\Desarrollo interfaces\\Proyecto\\ProyectoFinal\\ProyectoFinal\\ProyectoAgus\\empleados.cs",
+              "RelativeToolTip": "ProyectoAgus\\empleados.cs",
+              "ViewState": "AQIAAO8CAAAAAAAAAAApwAYDAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:22:28.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "empleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive - Educacyl\\2\u00BA Desarrollo de aplicaciones multiplataforma\\Desarrollo interfaces\\Proyecto\\ProyectoFinal\\ProyectoFinal\\ProyectoAgus\\empleados.cs",
+              "RelativeDocumentMoniker": "ProyectoAgus\\empleados.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive - Educacyl\\2\u00BA Desarrollo de aplicaciones multiplataforma\\Desarrollo interfaces\\Proyecto\\ProyectoFinal\\ProyectoFinal\\ProyectoAgus\\empleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoAgus\\empleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:22:26.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

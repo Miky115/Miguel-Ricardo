@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generated 15 ene 2024, 12:28:38 by Hibernate Tools 6.3.1.Final --><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class catalog="geopaxil" name="org.apache.maven.BD.Pueblos" optimistic-lock="none" table="pueblos">
+        <id name="id" type="int">
+            <column name="id"/>
+            <generator class="assigned"/>
+        </id>
+        <many-to-one class="org.apache.maven.BD.Provincias" fetch="select" name="provincias">
+            <column name="provincia_id"/>
+        </many-to-one>
+        <property name="nombre" type="string">
+            <column length="100" name="nombre" not-null="true"/>
+        </property>
+        <property name="poblacion" type="java.lang.Integer">
+            <column name="poblacion"/>
+        </property>
+        <property name="codigoPostal" type="string">
+            <column length="10" name="codigo_postal"/>
+        </property>
+        <property name="coordenadasGeograficas" type="string">
+            <column length="50" name="coordenadas_geograficas"/>
+        </property>
+    </class>
+</hibernate-mapping>

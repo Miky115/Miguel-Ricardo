@@ -1,0 +1,118 @@
+@charset "ISO-8859-1";
+
+.contenedor {
+	width: 100%;
+	min-height: 100vh; /* Altura mínima de la pantalla */
+	margin: 0;
+	padding: 0;
+	background-color: #f4f4f4;
+	display: flex;
+	flex-direction: column;
+}
+
+header {
+	background-color: #333333; /* Cambiado a un negro casi gris */
+	color: #fff;
+	padding: 20px;
+	display: flex;
+	align-items: center;
+}
+
+header img {
+	width: 100px;
+	margin-right: 20px;
+}
+
+.info-empresa h1 {
+	margin: 0;
+	font-size: 24px;
+}
+
+.info-empresa p {
+	margin: 5px 0;
+}
+
+.direccion p {
+    margin: 5px 0px 0px 30px; /* 10px arriba, 5px a la derecha, 5px abajo, 10px a la izquierda */
+}
+
+main {
+	flex: 1; /* El contenido principal ocupará todo el espacio restante */
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+table th, table td {
+	padding: 10px;
+	border-bottom: 1px solid #ddd;
+	text-align: left;
+}
+
+table th {
+	background-color: #f5f5f5;
+}
+
+table td {
+	background-color: #fff;
+}
+
+tbody td:last-child {
+	font-weight: bold;
+}
+
+tbody td:first-child {
+	width: 40%;
+}
+
+tfoot td {
+	font-weight: bold;
+	background-color: #f5f5f5;
+}
+
+@media print {
+	button#printButton {
+		display: none;
+	}
+}
+
+/* Estilo para el botón de imprimir */
+button#printButton {
+    background-color: #000; /* Negro */
+    color: #fff; /* Letras blancas */
+    border: 1px solid #000; /* Borde negro */
+    padding: 10px 20px; /* Espaciado interior del botón */
+    border-radius: 5px; /* Bordes redondeados */
+    margin-top: 20px; /* Espacio superior */
+    cursor: pointer; /* Cambio de cursor al pasar el ratón */
+}
+
+/* Estilo para el botón de imprimir al pasar el ratón */
+button#printButton:hover {
+    background-color: transparent; /* Transparente */
+    color: black; /* Letras blancas */
+    border: 1px solid #000; /* Borde negro */
+}
+
+/* Ajuste de posición del botón de imprimir */
+button#printButton {
+    margin-top: 30px; /* Espacio superior */
+    margin-bottom: 20px; /* Espacio inferior */
+}
+.total-factura {
+    width: calc(100% - 40px); /* Ancho igual al de la tabla */
+    border: 1px solid #000; /* Borde negro */
+    padding: 10px; /* Espaciado interior */
+    margin-top: 70px; /* Espacio superior */
+    margin-left: calc(49vw - 50%); /* Margen izquierdo igual al de la tabla */
+    margin-right: 20px; /* Margen derecho igual al de la tabla */
+    display: flex;
+    justify-content: space-between; /* Espacio entre los elementos */
+    align-items: center; /* Alinear verticalmente */
+}
+
+.total-factura span {
+    font-weight: bold;
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransGlobal", "ProyectoAgus\TransGlobal.csproj", "{58575660-7FD2-452D-891C-74672C1F38E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58575660-7FD2-452D-891C-74672C1F38E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58575660-7FD2-452D-891C-74672C1F38E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58575660-7FD2-452D-891C-74672C1F38E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58575660-7FD2-452D-891C-74672C1F38E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB307C70-AA9D-4858-9301-0C79C4B42426}
+	EndGlobalSection
+EndGlobal

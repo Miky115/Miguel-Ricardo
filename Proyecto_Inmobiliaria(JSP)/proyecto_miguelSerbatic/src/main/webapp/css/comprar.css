@@ -1,0 +1,116 @@
+@charset "ISO-8859-1";
+/* Estilos para el cuerpo de la página */
+body {
+	background-color: #f2f2f2; /* Color de fondo gris claro */
+	color: #333; /* Color de texto gris oscuro */
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+/* Estilos para el contenedor principal */
+.contenedor {
+	max-width: 800px;
+	margin: 20px auto;
+	background-color: #fff; /* Color de fondo blanco */
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* Estilos para el título principal */
+.contenedor h1 {
+	color: #333; /* Color de texto gris oscuro */
+	text-align: center;
+}
+
+/* Estilos para los campos de entrada y etiquetas */
+.contenedor label {
+	display: block;
+	margin-bottom: 8px;
+	font-weight: bold;
+}
+
+.contenedor input[type="text"],
+.contenedor input[type="email"],
+.contenedor input[type="tel"],
+.contenedor input[type="password"],
+.contenedor select {
+    width: calc(100% - 16px);
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc; /* Borde gris */
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+/* Estilos para el botón de comprar */
+.contenedor button[type="submit"] {
+	background-color: #000; /* Negro */
+	color: #fff; /* Blanco */
+	padding: 12px 20px;
+	border: 2px solid #000; /* Borde negro */
+	border-radius: 4px;
+	cursor: pointer;
+	transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+	width: 100%;
+}
+
+.contenedor button[type="submit"]:hover {
+	background-color: #fff; /* Blanco */
+	color: #000; /* Negro */
+	border-color: #000; /* Borde negro */
+}
+
+/* Estilos para los mensajes de error */
+.error-message {
+	color: #dc3545; /* Rojo */
+	margin-top: 4px;
+	font-size: 14px;
+}
+
+/* Estilos para los mensajes de éxito */
+.success-message {
+	color: #28a745; /* Verde */
+	margin-top: 4px;
+	font-size: 14px;
+}
+
+/* Estilos para el método de pago */
+#metodo_pago {
+	margin-bottom: 10px; /* Ajusta el valor según tus necesidades */
+}
+
+/* Estilos para la tabla */
+.contenedor table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+}
+
+.contenedor th, .contenedor td {
+	border: 1px solid #ccc;
+	padding: 8px;
+	text-align: left;
+}
+
+.productos:hover {
+	background-color: #f5f5f5;
+}
+
+.contenedor img {
+	max-width: 100px;
+	max-height: 100px;
+}
+
+.contenedor thead {
+	background-color: #333; /* Negro */
+	color: #fff; /* Blanco */
+}
+
+.mensaje-error {
+	color: red;
+	font-weight: bold;
+	text-align: center
+}
