@@ -40,5 +40,3 @@ Mi objetivo es trabajar como desarrollador, tanto en proyectos **multiplataforma
 - **LinkedIn:** [linkedin.com/in/miguel-ricardo-silvestre-bernardino-075564307/](https://www.linkedin.com/in/miguel-ricardo-silvestre-bernardino-075564307/)
 
 ---
-
-Con ganas de conectar con otros desarrolladores y aprender junto a la comunidad. ¡No dudes en contactarme o revisar mis proyectos!
